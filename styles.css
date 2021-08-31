@@ -69,9 +69,16 @@
   box-sizing: border-box;
 }
 
-
+.social{
+    margin: 10px;
+}
+.section-div{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
 .content-style{
-    font-size: 20px;
+    font-size: 25px;
     margin-top: 100px;
     margin-left: 600px;
     margin-right: 600px;
@@ -2995,6 +3002,8 @@ textarea.form-control-lg {
 }
 
 .btn {
+    margin-left: 3rem;
+    margin-right: 3rem;
   display: inline-block;
   font-weight: 400;
   line-height: 1.5;
@@ -4031,6 +4040,7 @@ textarea.form-control-lg {
 }
 
 .navbar {
+    font-size: 20px;
   position: relative;
   display: flex;
   flex-wrap: wrap;
@@ -11339,7 +11349,7 @@ html {
 }
 
 .btn-social {
-  border-radius: 100%;
+  border-radius:100%;
   display: inline-flex;
   width: 3.25rem;
   height: 3.25rem;
