@@ -82,12 +82,12 @@
 
 .content-style {
     font-size: 15px;
-    width: 500px;
     position: absolute;
-    margin: -150px 0px 0px -150px;
     top: 20%;
-    left: 45%;
-    right: 50%;
+    left: 10%;
+    right: 10%;
+
+
 }
 
 @media (prefers-reduced-motion: no-preference) {
