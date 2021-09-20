@@ -84,9 +84,10 @@
     font-size: 15px;
     width: 500px;
     position: absolute;
-    margin: -150px 0px 0px -200px;
+    margin: -150px 0px 0px -150px;
     top: 20%;
-    left: 50%;
+    left: 45%;
+    right: 50%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
